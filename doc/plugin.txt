@@ -1,0 +1,27 @@
+*{plugin}*  {plugin description}
+
+===============================================================================
+Contents ~
+
+ 1. Introduction                                        |{plugin}-introduction|
+ 2. Options                                                  |{plugin}-options|
+  1. The |g:{plugin}_option| option
+
+
+===============================================================================
+                                                        *{plugin}-introduction*
+Introduction ~
+
+Introduction to what your plugin does.
+
+===============================================================================
+                                                             *{plugin}-options*
+Options ~
+
+This section holds plugin options
+
+-------------------------------------------------------------------------------
+The *g:{plugin}_option* option
+
+This option does something.
+
